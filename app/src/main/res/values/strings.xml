@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">KarakolBazary</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_all">Все обьявления</string>
+    <string name="menu_categories">Категории</string>
+    <string name="menu_give_ad">Подать обьявление</string>
+    <string name="menu_about_app">О приложении</string>
+    <string name="menu_developers">Разработчики</string>
+
+
+    <string name="fragment_about_app">Здравствуй дорогой пользователь! Это приложение сделано чтобы облегчить покубки, продажи или же
+    предостовлять какие либо услуги жителям Каракол и ближайщих регионов. Любой человек может подавать обьявление не зависимо от возраста
+    или других критерии. Обьявления должны быть адекватными, цензурными. И вы можетке в любой момент попросить нас удалить или же
+    обновить свое обьявление. С уважением разработчики приложения "Karakol Bazary"</string>
+
+</resources>
